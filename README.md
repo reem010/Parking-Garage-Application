@@ -27,11 +27,11 @@ designed application must handle the following functions:
 
 THIS PROJECT INCLUDES: 
 
-1- A software requirements specification document. 
-2- A software design specification document. 
-3- The source for the Implementation of All features explained in the Project details 
-section.
-4- A word document includes answering the following question:
-    ○ Does your class diagram respect or violate SOLID principles? Justify your answer.
-    ○ Does your class diagram contain any design pattern(s), if yes name it and list the 
-    names of the classes involved in such pattern(s).
+    • A software requirements specification document 
+    • A software design specification document
+    • The source for the Implementation of All features explained in the Project details section
+    • A word document includes answering the following question:
+
+        ○ Does your class diagram respect or violate SOLID principles? Justify your answer.
+        ○ Does your class diagram contain any design pattern(s), if yes name it and list the 
+        names of the classes involved in such pattern(s).
