@@ -2,12 +2,10 @@
 
 PROJECT DETAILS:
 
-Applying the Object-Oriented concepts (Abstraction, polymorphism,
-interfaces, packaging, …) utilizing Boundary, control and entity concepts as well as SOLID
-Principles to design a Parking Garage application and implement it using an objectoriented programming language. 
-This application manages a parking space for a
-configurable maximum number of vehicles. Each parking space (slot) defined with a
-dimension (width and depth) The designed application must handle the following functions:
+Applying the Object-Oriented concepts (Abstraction, polymorphism,interfaces, packaging, …) utilizing Boundary, control and entity concepts as well as SOLID Principles to design a Parking Garage application and implement it using an objectoriented programming language. 
+This application manages a parking space for a configurable maximum number of vehicles. Each parking space (slot) defined with a dimension (width and depth) The
+designed application must handle the following functions:
+
     • Each vehicle shall be identified by a model name, unique identification number, Model
     year and vehicle dimensions (vehicle width and depth).
     • Park-in function that marks the arrival time of a vehicle if there is an available slot. The
