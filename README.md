@@ -20,7 +20,7 @@
     <li>Calculate the parking fees during the park-out based on the time-of-stay with an hourly rate of 5 EGP.</li>
     <li>Calculate the total income as well as the total number of vehicles that used the parking garage at any given point in time.</li>
     <li>Display the available parking slots.</li>
-    <li>Enrich your application with the capability to handle a set of exceptions that can happen during user interaction and through any other calculations. The displayed error message for exceptional behavior should be descriptive.</li>
+    <li>The application has the capability to handle a set of exceptions that can happen during user interaction and through any other calculations. The displayed error message for exceptional behavior should be descriptive.</li>
   </ul>
   
   <h2>Project Inclusions</h2>
@@ -30,8 +30,8 @@
     <li>The source for the Implementation of All features explained in the Project details section.</li>
     <li>A word document includes answering the following question:
       <ul>
-        <li>Does your class diagram respect or violate SOLID principles? Justify your answer.</li>
-        <li>Does your class diagram contain any design pattern(s)? If yes, name it and list the names of the classes involved in such pattern(s).</li>
+        <li>Does your class diagram respect or violate SOLID principles? </li>
+        <li>Does your class diagram contain any design pattern(s)? </li>
       </ul>
     </li>
   </ul>
