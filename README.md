@@ -1,9 +1,8 @@
-# SoftwareGarageProject
+# Project Details
 
 <!DOCTYPE html>
 <html>
 <body>
-  <h1>Project Details</h1>
   <h2>Application Description</h2>
   <p>Applying the Object-Oriented concepts (Abstraction, polymorphism, interfaces, packaging, ...) utilizing Boundary, control and entity concepts as well as SOLID Principles to design a Parking Garage application and implement it using an object-oriented programming language.</p>
   
