@@ -8,15 +8,15 @@
   
   <h2>Functionality</h2>
   <ul>
-    <li>Each vehicle shall be identified by a model name, unique identification number, Model year, and vehicle dimensions (vehicle width and depth).</li>
+    <li>Each vehicle is identified by a model name, unique identification number, Model year, and vehicle dimensions (vehicle width and depth).</li>
     <li>Park-in function that marks the arrival time of a vehicle if there is an available slot. The application shall capture such time automatically from the system.</li>
-    <li>During the park-in function, the application shall pick a free slot based on the active slot configuration. There are two configurations:
+    <li>During the park-in function, the application picks a free slot based on the active slot configuration. There are two configurations:
       <ol type="i">
         <li>First come first served slots i.e., the park-in function will use the first free slot available from the parking garage slots.</li>
         <li>Best-fit approach where you need to find the slot with the minimum dimension to hold the vehicle.</li>
       </ol>
     </li>
-    <li>Park-out function that marks the departure time of a vehicle from the garage. The application shall capture such time automatically from the system.</li>
+    <li>Park-out function that marks the departure time of a vehicle from the garage. The application captures such time automatically from the system.</li>
     <li>Calculate the parking fees during the park-out based on the time-of-stay with an hourly rate of 5 EGP.</li>
     <li>Calculate the total income as well as the total number of vehicles that used the parking garage at any given point in time.</li>
     <li>Display the available parking slots.</li>
